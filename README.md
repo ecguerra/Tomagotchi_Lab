@@ -31,6 +31,6 @@ Let's use our front-end web development skills to create a "living" pet! We'll u
 - Add an excercise() method to your tomagotchi, that affects certain properties
 - Add anything you can think of... use your imagination!
 
-# Acknowledgements
+### Acknowledgements
 Thank you GA's Connected Classroom for providing the basis of this lab!
 Adapted from SEI-MAE by Taylor Darneille*
